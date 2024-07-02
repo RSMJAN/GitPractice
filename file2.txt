@@ -1,0 +1,4 @@
+this is a practice repository 
+to save the vim file 
+1. press escape 
+2. type :wq
